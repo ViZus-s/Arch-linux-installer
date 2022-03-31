@@ -1,4 +1,4 @@
-# Arch-linux-installer
+# ArchGedix
 
 To be honest, I seriously want to make my own installer.
 I originally intended to do it for myself, but why not extend it to others?
